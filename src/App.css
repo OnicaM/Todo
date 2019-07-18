@@ -1,0 +1,20 @@
+.todo-app{
+    max-width: 300px;
+    width: 100%;
+    margin: 0 auto;
+}
+.list-todo{
+    list-style: none;
+    padding: 0;
+}
+a.button--filter {
+    display: inline-block;
+    margin: 10px 6px;
+    padding: 2px 5px;
+    background: green;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 14px;
+    line-height: 18px;
+}
